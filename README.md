@@ -15,3 +15,6 @@ pip install -r requirements.txt
 Linux: cd elst/
 
 uvicorn main:app
+
+# Docs
+localhost:8000/docs
