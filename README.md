@@ -10,3 +10,8 @@ MongoDB
 
 # Requirements
 pip install -r requirements.txt
+
+# Run project
+Linux: cd elst/
+
+uvicorn main:app
